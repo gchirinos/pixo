@@ -1,0 +1,8 @@
+{
+  "name": "pixo",
+  "version": "1.0.0",
+  "description": "Pixo, un robot cardenal beisbolero en pixel art que vive en un panel de Claude Code y reacciona a lo que pasa en la sesión",
+  "author": { "name": "Guillermo Chirinos" },
+  "license": "MIT",
+  "keywords": ["mod", "pixel-art", "companion", "herdr", "baseball"]
+}

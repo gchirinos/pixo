@@ -1,0 +1,5 @@
+# Claude Code escribe esto dentro del plugin cuando lo carga con --plugin-dir
+.claude-plugin/types/
+tsconfig.json
+
+.DS_Store
